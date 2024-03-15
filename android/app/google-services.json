@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649898341379",
+    "project_id": "lotel-d6b7e",
+    "storage_bucket": "lotel-d6b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649898341379:android:71d3feccf772f7ff8f4a36",
+        "android_client_info": {
+          "package_name": "com.example.lotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649898341379-2bvjkb1ho5vsm8ucndch6m0hvc32c9rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6lxovo6-lVHvfGa42jPsVEK1Gh1Vr3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649898341379-2bvjkb1ho5vsm8ucndch6m0hvc32c9rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
